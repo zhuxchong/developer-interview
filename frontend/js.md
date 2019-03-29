@@ -1,4 +1,5 @@
-#JavaScript Questions
+# JavaScript Questions
 
-##Q1:somethingsomething
-Answer: somethingsomethingssssssssssssssssdajkshfkjdhfksbdfhjbdsafjkdhfkldasfjkbdslkfbadskbfkds bfkjhdab fkabdskfbadskjfb jksdf bkdsabfkjsnbfkjdsnfjksnl
+## Q1:somethingsomething
+
+### Answer: somethingsomethingssssssssssssssssdajkshfkjdhfksbdfhjbdsafjkdhfkldasfjkbdslkfbadskbfkds bfkjhdab fkabdskfbadskjfb jksdf bkdsabfkjsnbfkjdsnfjksnl
